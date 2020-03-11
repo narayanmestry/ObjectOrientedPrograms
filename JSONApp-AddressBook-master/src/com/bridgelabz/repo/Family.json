@@ -1,0 +1,37 @@
+[ {
+  "fname" : "Kusaji",
+  "lname" : "mestry",
+  "address" : {
+    "city" : "sawantwadi",
+    "state" : "maharastra"
+  },
+  "zip" : 12,
+  "mobNo" : "32433242342"
+}, {
+  "fname" : "vishu",
+  "lname" : "mestry",
+  "address" : {
+    "city" : "vengurla",
+    "state" : "maharashtra"
+  },
+  "zip" : 32,
+  "mobNo" : "3434233"
+}, {
+  "fname" : "chetan",
+  "lname" : "Metry",
+  "address" : {
+    "city" : "punds",
+    "state" : "kjd"
+  },
+  "zip" : 2323,
+  "mobNo" : "1212121212"
+}, {
+  "fname" : "Kir",
+  "lname" : "mestry",
+  "address" : {
+    "city" : "kldfjsj",
+    "state" : "lkds"
+  },
+  "zip" : 34333,
+  "mobNo" : "34231"
+} ]

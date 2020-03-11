@@ -1,0 +1,25 @@
+[ {
+  "uid" : 11,
+  "name" : "chetan",
+  "buyshare" : 2,
+  "soldShare" : 0,
+  "useramount" : 9800
+}, {
+  "uid" : 22,
+  "name" : "xyz",
+  "buyshare" : 0,
+  "soldShare" : 0,
+  "useramount" : 20000
+}, {
+  "uid" : 1,
+  "name" : "cccc",
+  "buyshare" : 0,
+  "soldShare" : 0,
+  "useramount" : 20000
+}, {
+  "uid" : 12,
+  "name" : "john",
+  "buyshare" : 4,
+  "soldShare" : 0,
+  "useramount" : 29000
+} ]

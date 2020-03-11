@@ -1,0 +1,153 @@
+[
+	{
+		"did": 1,
+		"name": "DR. chetan",
+		"specialization": "Pediatrician(बालरोग तज्ञ)",
+		"availability": "Monday(9AM - 2PM)",
+		"appointed": [
+			{
+				"name": "eeee",
+				"age": 23,
+				"mobileNo": "2323",
+				"appontedDrName": "DR. chetan",
+				"date": "Tue Jan 14 15:02:59 IST 2020",
+				"pid": 33
+			},
+			{
+				"name": "qqq",
+				"age": 12,
+				"mobileNo": "12121212",
+				"appontedDrName": "DR. chetan",
+				"date": "Tue Jan 14 18:54:38 IST 2020",
+				"pid": 12
+			},
+			{
+				"name": "nnnn",
+				"age": 23,
+				"mobileNo": "23232323",
+				"appontedDrName": "DR. chetan",
+				"date": "Tue Jan 14 18:58:12 IST 2020",
+				"pid": 222
+			}
+		]
+	},
+	{
+		"did": 2,
+		"name": "DR. john",
+		"specialization": "Surgeon(सर्जन)",
+		"availability": "Monday(2PM - 6PM)",
+		"appointed": null
+	},
+	{
+		"did": 3,
+		"name": "DR. Kiran",
+		"specialization": "Psychiatrist(मानसशास्त्रज्ञ)",
+		"availability": "Tuesday:(9AM - 2PM)",
+		"appointed": null
+	},
+	{
+		"did": 4,
+		"name": "DR. Sanjay",
+		"specialization": "Cardiologist(हृदयरोगतज्ज्ञ)",
+		"availability": "Tuesday:2PM - 6PM)",
+		"appointed": null
+	},
+	{
+		"did": 5,
+		"name": "DR. Ketan",
+		"specialization": "Skin-Specialist(त्वचाविज्ञानी)",
+		"availability": "Wednesday:(9AM - 2PM)",
+		"appointed": null
+	},
+	{
+		"did": 6,
+		"name": "DR. Smith",
+		"specialization": "Infectious Disease Physician(संसर्गजन्य रोग चिकित्सक)",
+		"availability": "Wednesday:(2PM - 6PM)",
+		"appointed": null
+	},
+	{
+		"did": 7,
+		"name": "DR. Virat",
+		"specialization": "Eye Disease Physician(नेत्र रोग चिकित्सक)",
+		"availability": "Thursday:(9AM - 2PM)",
+		"appointed": null
+	},
+	{
+		"did": 8,
+		"name": "DR. Riya",
+		"specialization": "Pediatrician(बालरोग तज्ञ)",
+		"availability": "Thursday:(2PM - 6PM)",
+		"appointed": null
+	},
+	{
+		"did": 9,
+		"name": "DR. Sujata",
+		"specialization": "Surgeon(सर्जन)",
+		"availability": "Friday:(9AM - 2PM)",
+		"appointed": null
+	},
+	{
+		"did": 10,
+		"name": "DR. Ranbeer",
+		"specialization": "Psychiatrist(मानसशास्त्रज्ञ)",
+		"availability": "Friday:(2PM - 6PM)",
+		"appointed": null
+	},
+	{
+		"did": 11,
+		"name": "DR. Anil",
+		"specialization": "Cardiologist(हृदयरोगतज्ज्ञ)",
+		"availability": "Saturday:(2PM - 6PM)",
+		"appointed": null
+	},
+	{
+		"did": 13,
+		"name": "DR. Sanjay",
+		"specialization": "Infectious Disease Physician(संसर्गजन्य रोग चिकित्सक)",
+		"availability": "Sunday:(9AM - 2PM)",
+		"appointed": null
+	},
+	{
+		"did": 14,
+		"name": "DR. Kevin",
+		"specialization": "Eye Disease Physician(नेत्र रोग चिकित्सक)",
+		"availability": "Sunday:(2PM - 6PM)",
+		"appointed": null
+	},
+	{
+		"did": 14,
+		"name": "DR. Sanket",
+		"specialization": "Surgeon(सर्जन)",
+		"availability": "Monday(2PM - 6PM)",
+		"appointed": null
+	},
+	{
+		"did": 16,
+		"name": "DR. JAasmin",
+		"specialization": "Infectious Disease Physician(संसर्गजन्य रोग चिकित्सक)",
+		"availability": "Sunday:(9AM - 2PM)",
+		"appointed": null
+	},
+	{
+		"did": 15,
+		"name": "DR. Sanjit",
+		"specialization": "Psychiatrist(मानसशास्त्रज्ञ)",
+		"availability": "Friday:(2PM - 6PM)",
+		"appointed": null
+	},
+	{
+		"did": 17,
+		"name": "DR. KIrti",
+		"specialization": "Skin-Specialist(त्वचाविज्ञानी)",
+		"availability": "Wednesday:(9AM - 2PM)",
+		"appointed": null
+	},
+	{
+		"did": 111,
+		"name": "DR. Ganesh",
+		"specialization": "Surgeon(सर्जन)",
+		"availability": "Monday(2PM - 6PM)",
+		"appointed": null
+	}
+]

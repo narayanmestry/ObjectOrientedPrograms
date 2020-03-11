@@ -1,0 +1,85 @@
+Clinique 
+	-- Doctor
+		-- id
+		-- name
+		-- Specialization
+		-- availability (AM  or PM)
+		-- Appointment <ArrayList> with Size 5-----------------------patient data which have take appointment
+	-- patient
+		-- id
+		-- name
+		-- mobile no
+		-- age
+		-- appointed Doctor name 
+Required :
+ 	Class : POGO 
+		1. Clinique : ---> Doctor(List) , Patient(List) 
+		2. Doctor -----> id,name,spec,avail,Apponted Patient
+		3. Patient -------> id name mobile ,age,Date,appointed doctor
+		---------------		
+		DRIVER
+		---------------
+		Control 
+		----------------
+		UTILITY
+		 
+-------------------------------------------------------------------
+Flow : 
+	1 . Manager : 
+			    @1. Add the Doctor with all details
+				@2. see the Doctor details 
+				@3. Search the Doctor
+				@4. Delete the Doctor
+	2. User 	:
+				1. Doctor : 
+						-- @Search the petient by id,name
+						
+				2. Patient :
+						-- Search the doctore by 
+						  @id
+						, @name 
+						, @specialization 
+						  @Availability number
+						  @take appointment of doctor
+						
+	
+Operation :
+ 
+1. Search the petient by id,name ,mobile number-------------------------------------user : doctor,reception,  
+2. Search the doctore by id,name ,specialization or Availability number ------------user : patient 	
+3. take appointment of doctor ------------------------------------------------------user : patient
+	
+
+Condition :
+	1. A doctor at  any availability time can see only 5 patients.
+	2. If exceeded the user can take appointment for patient at different date or availability time
+
+Output :
+--------------
+1. Doctore patient Report :
+	id 	name 	 Specialization 	availability 	   appointed Patient
+	
+	
+	
+	
+	
+-------------------
+Specialization : 
+------------------
+Pediatrician : बालरोग तज्ञ
+Surgeon. : सर्जन.
+Psychiatrist मानसशास्त्रज्ञ
+Cardiologist हृदयरोगतज्ज्ञ
+Dermatologist(Skin specialist) त्वचाविज्ञानी
+Infectious Disease Physician  संसर्गजन्य रोग चिकित्सक
+Ophthalmologists  नेत्र रोग वि शेषज्ञ
+
+day /Timing :    9 - 2              2- 6       	
+Monday  :       Pediatrician :              Surgeon   
+tues            Psychiatrist                Cardiologist   
+wend           Dermatologist                Infectious Disease Physician 
+thus            Ophthalmologists            Pediatrician
+fri             Surgeon                        Psychiatrist
+sat            Cardiologist                   Dermatologist 
+sun           Infectious Disease Physician   Ophthalmologists
+

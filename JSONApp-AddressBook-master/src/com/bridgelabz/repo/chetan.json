@@ -1,0 +1,37 @@
+[ {
+  "fname" : "ranvind",
+  "lname" : "wef",
+  "address" : {
+    "city" : "ewr",
+    "state" : "rew"
+  },
+  "zip" : 123,
+  "mobNo" : "2323"
+}, {
+  "fname" : "kir",
+  "lname" : "sdf",
+  "address" : {
+    "city" : "sdf",
+    "state" : "sdf"
+  },
+  "zip" : 232,
+  "mobNo" : "21312312"
+}, {
+  "fname" : "jack",
+  "lname" : "asdfa",
+  "address" : {
+    "city" : "sdf",
+    "state" : "df"
+  },
+  "zip" : 233,
+  "mobNo" : "2323232"
+}, {
+  "fname" : "chetan",
+  "lname" : "mestry",
+  "address" : {
+    "city" : "pune",
+    "state" : "asd"
+  },
+  "zip" : 2323,
+  "mobNo" : "213123213"
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "id" : 12,
+  "symbol" : "@@",
+  "companyname" : "www",
+  "noOfShare" : 10,
+  "priceperShare" : 100,
+  "totalPriceOfshare" : 1000,
+  "companyAmount" : 10200,
+  "date" : "Thu Jan 16 12:40:44 IST 2020",
+  "user" : null
+}, {
+  "id" : 11,
+  "symbol" : "####",
+  "companyname" : "##",
+  "noOfShare" : 22,
+  "priceperShare" : 20,
+  "totalPriceOfshare" : 440,
+  "companyAmount" : 120000,
+  "date" : "Thu Jan 16 12:44:19 IST 2020",
+  "user" : null
+}, {
+  "id" : 333,
+  "symbol" : "##",
+  "companyname" : "xxx",
+  "noOfShare" : 10,
+  "priceperShare" : 200,
+  "totalPriceOfshare" : 2000,
+  "companyAmount" : 12000,
+  "date" : "Thu Jan 16 16:24:31 IST 2020",
+  "user" : null
+} ]
